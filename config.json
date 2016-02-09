@@ -37,7 +37,7 @@
 			"options": {
 				"maxlimit": -1
 			}
-		}
+		},
 		"zweiradabstellplatz": {
 			"url": "https://data.stadt-zuerich.ch/storage/f/zweiradabstellplatz/zweiradabstellplatz.json",
 			"schedule": "* 20 3 1 * *",
